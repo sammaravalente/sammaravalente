@@ -1,6 +1,6 @@
 - 👋 Olá, sejam bem vindos ao meu perfil no GitHub!! Eu sou a Sam ✨
 - 👀 Sou do Back-End, mas conheço o básico de HTML e CSS;
-- 🌱 No momento, estou participando do Bootcamp "Orange Tech+", parceria do Banco Inter e DIO.
+- 🌱 No momento, estou trabalhando em fazer o meu primeiro projeto: meu site pessoal/portfólio.
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/sammaravalente/) ou me mandar um email: sammaravs@outlook.com
 
 <!---
