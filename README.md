@@ -20,7 +20,7 @@
 
 <!-- Badges redes sociais -->
 ### 📫 Onde me encontrar:
-<a href="sammaravs@outlook.com">
+<a href="mailto:sammaravs@outlook.com">
   <img src="https://img.shields.io/badge/email-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="email badge sample"/>  
 </a>
 
