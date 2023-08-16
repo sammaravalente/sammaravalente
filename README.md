@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/email-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="email badge sample"/>  
 </a>
 
-<a href="https://www.linkedin.com/in/sammaravalente/">
+<a href="https://www.linkedin.com/in/sammaravs/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge sample"/>
   </a>
 
