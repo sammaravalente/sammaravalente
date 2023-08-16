@@ -5,16 +5,21 @@
 - 🌱 O que estou fazendo agora: aprendendo (e curtindo demais) Python;
 - 💻 Disponível para trabalho remoto.
 
-#### habilidades
+## ✨ Habilidades ✨
 <div>
-  <img src="https://img.shields.io/badge/Inglês%20Avançado-fb6c6c?&style=for-the-badge" alt="inglês badge sample"/>
-  <img src="https://img.shields.io/badge/Organização-fbdb6c?&style=for-the-badge" alt="inglês badge sample"/>
-  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe-f399c8?&style=for-the-badge" alt="inglês badge sample"/>
-  <img src="https://img.shields.io/badge/Git%20Básico-F05032?&style=for-the-badge" alt="inglês badge sample"/>
-  <img src="https://img.shields.io/badge/GitHub%20Básico-181717?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/Inglês%20Avançado-434d58?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/Organização-CAAF5B?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe-c33670?&style=for-the-badge" alt="inglês badge sample"/> <br>
+  <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge" alt="inglês badge sample"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge" alt="inglês badge sample"/>
 </div>
 
 <!-- Badges redes sociais -->
+### 📫 Onde me encontrar:
 <a href="sammaravs@outlook.com">
   <img src="https://img.shields.io/badge/email-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="email badge sample"/>  
 </a>
@@ -27,9 +32,9 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram badge sample"/>
   </a>
 
-<br> <br>
-
-<!-- Git stats -->
+<br>
+<p>------------------</p>
+<!-- Cards Git stats -->
 <a href="https://github.com/sammaravalente/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sammaravalente&show_icons=true&theme=bear&icon_color=purple&hide=stars"/>
 </a>
