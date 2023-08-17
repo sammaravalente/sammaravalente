@@ -33,10 +33,8 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram badge sample"/>
   </a>
 
-<br>
-<p>------------------</p>
 
-<!-- Cards Git stats -->
+<!-- Cards Git stats [PAROU DE FUNCIONAR]
 <a href="https://github.com/sammaravalente/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sammaravalente&show_icons=true&theme=bear&icon_color=purple&hide=stars"/>
 </a>
@@ -44,4 +42,4 @@
 <a href="https://github.com/sammaravalente">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaravalente&layout=compact&show_icons=true&theme=bear&icon_color=purple" />
 </a>
-
+-->
