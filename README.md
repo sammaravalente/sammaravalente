@@ -1,5 +1,5 @@
 # Hi there, eu sou a Sam :)
-### Sammara Valente, 22 anos, Desenvolvedora Júnior.
+### Sammara Valente, 23 anos, Desenvolvedora Júnior.
 
 - 📓 Graduanda de Análise e Desenvolvimento de Sistemas;
 - 🌱 O que estou fazendo agora: aprendendo (e curtindo demais) Python;
