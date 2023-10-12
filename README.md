@@ -1,9 +1,8 @@
 # Hi there, eu sou a Sam :)
 ### Sammara Valente, 23 anos, Desenvolvedora Júnior.
 
-- 📓 Graduanda de Análise e Desenvolvimento de Sistemas;
-- 🌱 O que estou fazendo agora: aprendendo (e curtindo demais) Python;
-- 💻 Disponível para trabalho remoto.
+- 📓 Graduanda em Análise e Desenvolvimento de Sistemas e Gestão Pública;
+- 💻 Em busca de trabalho remoto.
 
 ## ✨ Habilidades ✨
 <!-- Badges Habilidades-->
